@@ -16,9 +16,7 @@ Lo siguiente es escribir los posibles valores de Q, estos son 0, 1 y ~Q .
 #### CIRCUITO DEL CONTADOR
 En este módulo lo que vamos a hacer es escribir es circuito y la circuiteria auxiliar a este. Aqui nos encontramos los cables correspondientes a las salidas negadas de los biestables, cables de entrada a los biestables, cables intermedios, puertas lógicas correspondientes al contador y por último los 4 JK donde pondremos las entradas y las salidas de cada 1, aqui es donde pondremos si el valor de una entrada el 1, 0 o el J o K correspondiente a ese biestable. No hay que olvidarse que hay que poner la entrada del reloj. 
 #### CIRCUITO DE PRUEBA
-El circuito de prueba nos permite probar el circuito, aquí es donde tendremos que indicar que queremos que nos proporcione un archivo .dmp y que el reloj se inicie en 0. A parte de esto podemos añadir cosas como que nos de el resultado tambien en la terminal (_$monitor($time, "C(%b) |%d|",C,Q);_) o que queremos que la secuencia empiece por un 
-
-numero:  
+El circuito de prueba nos permite probar el circuito, aquí es donde tendremos que indicar que queremos que nos proporcione un archivo .dmp y que el reloj se inicie en 0. A parte de esto podemos añadir cosas como que nos de el resultado tambien en la terminal (_$monitor($time, "C(%b) |%d|",C,Q);_) o que queremos que la secuencia empiece por un numero:  
 
          counter.jk0.Q<=0;
          counter.jk1.Q<=1;
