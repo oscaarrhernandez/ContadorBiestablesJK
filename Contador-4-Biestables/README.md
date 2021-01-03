@@ -13,7 +13,7 @@ _Destacar que la secuencia es aleatoria para cada trabajo, por lo que el resulta
 de este podría variar_
 _La secuencia a realizar es: 6 - 5 - 13 - 2 - 4 - 11 - 9 - 8_
 
-_El diagrama elegido (entre las diferentes opciones posibles) es el siguiente:_
+_El diagrama elegido es el siguiente:_
 
 <p align="center">
   <img src="https://github.com/oscaarrhernandez/ContadorBiestablesJK/blob/main/Contador-4-Biestables/Diagrama,%20transiciones%20y%20karnaugh/Diagrama.jpg">
