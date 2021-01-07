@@ -34,7 +34,7 @@ _La tabla de transiciones quedaría entonces de la siguiente forma:_
 ## MAPAS DE KARNAUGH:
 _Utilizando la tabla de transiciones como referencia, podemos sacar cada una de las
 entradas de los biestables escribiendo sus [Mapas de Karnaugh](https://es.wikipedia.org/wiki/Mapa_de_Karnaugh). La negación la
-realizamos mediante el símbolo '_
+realizamos mediante el símbolo ' ._
 
 MAPAS JK0 JK1: 
 <p align="center">
